@@ -1,7 +1,9 @@
 ## Put comments here that give an overall description of what your
 ## functions do
 
-## Pair of functions that cache the inverse of a matrix
+## The functions makeCacheMatrix and cacheSolve are intended to show 
+## how to make use of environment management in R  through the implementation 
+## of a cache functionality to compute the inverse of a matrix
 
 
 ## Write a short comment describing this function
